@@ -1,0 +1,1 @@
+This exercise will teach me about HTML, CSS and Git.
